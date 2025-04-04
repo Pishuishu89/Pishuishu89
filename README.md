@@ -27,10 +27,12 @@ Developing a local multiplayer auto-battler inspired by TFT with elemental beast
 Built with PyGame and features unique traits like Rage and Stun classes.
 
 🔸 📊 Bellabeats Case Study
+
 Conducting a full-scale data analysis for a wellness tech company using Fitbit activity data.
 Following the Ask → Prepare → Process → Analyze → Share → Act framework to generate marketing insights and visual recommendations.
 
 🔸 📉 Meta Evolution: Yu-Gi-Oh! Dashboard
+
 Building a Power BI dashboard to explore how Yu-Gi-Oh! deck archetypes evolve across formats.
 Highlights win rates, meta shifts, and deck-building patterns to inform competitive strategy over the years. 
 
