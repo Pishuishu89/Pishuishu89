@@ -3,25 +3,30 @@
 💻 I’m currently learning Web Development, 🤖 Artificial Intelligence, 📊 Data Analysis, and 🔧 Embedded Programming.
 📫 You can reach me at ishaandasbasak@gmail.com or on Instagram @ishuu_db
 
------------------------- Current Projects-------------------------------
+------------------------Current Projects-------------------------------
 
 
 🔹 FocusFlow – Pomodoro Chrome Extension
 Built a minimalist productivity extension with persistent timers, website blocking, and motivational redirection.
 Designed for customizable focus cycles with dark/light mode to enhance user workflow.
 
-🔹 Cyclistic Bike-Share Analysis
-Cleaned and analyzed 150K+ rows of real-world trip data to uncover user trends.
-Created time-based visualizations to support marketing insights using Python, SQL, and Matplotlib.
+🔸 🏀 igotNext – Basketball Queue Generator
+Designing a queue system to organize basketball drop-in sessions at York University.
+Built using web technologies, with future plans to add player tracking and history.
 
-🔹 Headspace: Smart Helmet for Brain Impact Monitoring
-Engineered a real-time impact detection system using Arduino, sensors, and Embedded C.
-Designed circuits to monitor force and location of head impacts, improving athlete safety.
+🔸 🔮 Basketball MVP Guesser
+Creating a predictive AI model using Random Forest to guess the NBA MVP for 2024–2025.
+Features adjustable sliders for points, team wins, and advanced metrics to explore different scenarios.
 
-🔹 Depth Checker: Real-Time Squat Analyzer
-Developed a live squat form analyzer using Python, OpenCV, and MediaPipe.
-Delivered real-time pose feedback by calculating knee angles, doubling form correction speed.
+🔸 🐾 BeastFight Fanatics – Autochess Game
+Developing a local multiplayer auto-battler inspired by TFT with elemental beast champions.
+Built with PyGame and features unique traits like Rage and Stun classes.
 
-🔹 Healthy Habits – Fitness App (Hackathon Winner 🏆)
-Created a health-tracking app using React and Python with PDF meal data extraction.
-Used heart rate to trigger a hidden message and won "Most Complicated Hello World."
+🔸 📊 Bellabeats Case Study
+Conducting a full-scale data analysis for a wellness tech company using Fitbit activity data.
+Following the Ask → Prepare → Process → Analyze → Share → Act framework to generate marketing insights and visual recommendations.
+
+🔸 📉 Meta Evolution: Yu-Gi-Oh! Dashboard
+Building a Power BI dashboard to explore how Yu-Gi-Oh! deck archetypes evolve across formats.
+Highlights win rates, meta shifts, and deck-building patterns to inform competitive strategy over the years. 
+
