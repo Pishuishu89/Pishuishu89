@@ -16,7 +16,7 @@ Designed for customizable focus cycles with dark/light mode to enhance user work
 Designing a queue system to organize basketball drop-in sessions at York University.
 Built using web technologies, with future plans to add player tracking and history.
 
-🔸 🔮 Basketball MVP Guesser
+🔸 🔮 WhoTheGoat - Basketball MVP Predictor
 
 Creating a predictive AI model using Random Forest to guess the NBA MVP for 2024–2025.
 Features adjustable sliders for points, team wins, and advanced metrics to explore different scenarios.
